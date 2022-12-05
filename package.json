@@ -1,0 +1,10 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@architect/sandbox": "^5.3.4"
+  }
+}
